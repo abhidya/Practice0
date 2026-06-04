@@ -1,5 +1,9 @@
 # Practice 0
 
+Archived course setup notebook for CS445/545. The original instructions below
+describe the class workflow; local notebook checkpoints and Python cache files
+are ignored for cleaner practice runs.
+
 Welcome to CS445/545. In this class, we will be using a variety of
 tools that will require some initial configuration. 
 
